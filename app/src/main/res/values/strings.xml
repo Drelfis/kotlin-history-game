@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">history figure task</string>
+    <string name = "TitleTXT">Who is your History Figure</string>
+    <string name ="etAge">Enter age</string>
+    <string name="nbtLoad">Search</string>
+</resources>
